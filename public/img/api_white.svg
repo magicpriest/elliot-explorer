@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g class="st0">
+	<circle class="st1" cx="24" cy="24" r="21"/>
+	<circle class="st1" cx="24" cy="24" r="10"/>
+	<path class="st1" d="M19,4v11 M29,4v11 M19,33v11 M29,33v11 M19,4v11 M29,4v11 M19,33v11 M29,33v11 M44,19H33 M44,29H33 M15,19H4
+		 M15,29H4 M44,19H33 M44,29H33 M15,19H4 M15,29H4"/>
+</g>
+<path class="st2" d="M19.8,24.9l-13,13c-0.6,0.6-1.6,0.6-2.3,0L3,36.5c-0.6-0.6-0.6-1.6,0-2.3l10.3-10.4L3,13.4
+	c-0.6-0.6-0.6-1.6,0-2.3l1.5-1.5C5.2,9,6.2,9,6.8,9.6l13,13C20.5,23.3,20.5,24.3,19.8,24.9z M45.5,37.2v-2.1c0-0.9-0.7-1.6-1.6-1.6
+	H23.5c-0.9,0-1.6,0.7-1.6,1.6v2.1c0,0.9,0.7,1.6,1.6,1.6h20.4C44.7,38.8,45.5,38.1,45.5,37.2z"/>
+</svg>
